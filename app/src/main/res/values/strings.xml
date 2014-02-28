@@ -16,5 +16,7 @@
     <string name="sign_up_button_label">Sign Up</string>
     <string name="signup_error_message">Please enter a correct username, password or email.</string>
     <string name="signup_error_title">Oops!</string>
+    <string name="login_error_message">Please enter a correct username and password.</string>
+    <string name="login_error_title">Oops!</string>
 
 </resources>
